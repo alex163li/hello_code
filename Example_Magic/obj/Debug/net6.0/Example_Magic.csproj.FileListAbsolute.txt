@@ -1,0 +1,15 @@
+/Users/m1/c#/Example_Magic/bin/Debug/net6.0/Example_Magic
+/Users/m1/c#/Example_Magic/bin/Debug/net6.0/Example_Magic.deps.json
+/Users/m1/c#/Example_Magic/bin/Debug/net6.0/Example_Magic.runtimeconfig.json
+/Users/m1/c#/Example_Magic/bin/Debug/net6.0/Example_Magic.dll
+/Users/m1/c#/Example_Magic/bin/Debug/net6.0/Example_Magic.pdb
+/Users/m1/c#/Example_Magic/obj/Debug/net6.0/Example_Magic.csproj.AssemblyReference.cache
+/Users/m1/c#/Example_Magic/obj/Debug/net6.0/Example_Magic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/m1/c#/Example_Magic/obj/Debug/net6.0/Example_Magic.AssemblyInfoInputs.cache
+/Users/m1/c#/Example_Magic/obj/Debug/net6.0/Example_Magic.AssemblyInfo.cs
+/Users/m1/c#/Example_Magic/obj/Debug/net6.0/Example_Magic.csproj.CoreCompileInputs.cache
+/Users/m1/c#/Example_Magic/obj/Debug/net6.0/Example_Magic.dll
+/Users/m1/c#/Example_Magic/obj/Debug/net6.0/refint/Example_Magic.dll
+/Users/m1/c#/Example_Magic/obj/Debug/net6.0/Example_Magic.pdb
+/Users/m1/c#/Example_Magic/obj/Debug/net6.0/Example_Magic.genruntimeconfig.cache
+/Users/m1/c#/Example_Magic/obj/Debug/net6.0/ref/Example_Magic.dll
