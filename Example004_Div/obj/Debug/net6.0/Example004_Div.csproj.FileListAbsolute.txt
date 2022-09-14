@@ -1,0 +1,15 @@
+/Users/m1/c#/Example004_Div/bin/Debug/net6.0/Example004_Div
+/Users/m1/c#/Example004_Div/bin/Debug/net6.0/Example004_Div.deps.json
+/Users/m1/c#/Example004_Div/bin/Debug/net6.0/Example004_Div.runtimeconfig.json
+/Users/m1/c#/Example004_Div/bin/Debug/net6.0/Example004_Div.dll
+/Users/m1/c#/Example004_Div/bin/Debug/net6.0/Example004_Div.pdb
+/Users/m1/c#/Example004_Div/obj/Debug/net6.0/Example004_Div.csproj.AssemblyReference.cache
+/Users/m1/c#/Example004_Div/obj/Debug/net6.0/Example004_Div.GeneratedMSBuildEditorConfig.editorconfig
+/Users/m1/c#/Example004_Div/obj/Debug/net6.0/Example004_Div.AssemblyInfoInputs.cache
+/Users/m1/c#/Example004_Div/obj/Debug/net6.0/Example004_Div.AssemblyInfo.cs
+/Users/m1/c#/Example004_Div/obj/Debug/net6.0/Example004_Div.csproj.CoreCompileInputs.cache
+/Users/m1/c#/Example004_Div/obj/Debug/net6.0/Example004_Div.dll
+/Users/m1/c#/Example004_Div/obj/Debug/net6.0/refint/Example004_Div.dll
+/Users/m1/c#/Example004_Div/obj/Debug/net6.0/Example004_Div.pdb
+/Users/m1/c#/Example004_Div/obj/Debug/net6.0/Example004_Div.genruntimeconfig.cache
+/Users/m1/c#/Example004_Div/obj/Debug/net6.0/ref/Example004_Div.dll
