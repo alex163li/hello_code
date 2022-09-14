@@ -1,0 +1,15 @@
+/Users/m1/c#/Example_IfElse/bin/Debug/net6.0/Example_IfElse
+/Users/m1/c#/Example_IfElse/bin/Debug/net6.0/Example_IfElse.deps.json
+/Users/m1/c#/Example_IfElse/bin/Debug/net6.0/Example_IfElse.runtimeconfig.json
+/Users/m1/c#/Example_IfElse/bin/Debug/net6.0/Example_IfElse.dll
+/Users/m1/c#/Example_IfElse/bin/Debug/net6.0/Example_IfElse.pdb
+/Users/m1/c#/Example_IfElse/obj/Debug/net6.0/Example_IfElse.csproj.AssemblyReference.cache
+/Users/m1/c#/Example_IfElse/obj/Debug/net6.0/Example_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/m1/c#/Example_IfElse/obj/Debug/net6.0/Example_IfElse.AssemblyInfoInputs.cache
+/Users/m1/c#/Example_IfElse/obj/Debug/net6.0/Example_IfElse.AssemblyInfo.cs
+/Users/m1/c#/Example_IfElse/obj/Debug/net6.0/Example_IfElse.csproj.CoreCompileInputs.cache
+/Users/m1/c#/Example_IfElse/obj/Debug/net6.0/Example_IfElse.dll
+/Users/m1/c#/Example_IfElse/obj/Debug/net6.0/refint/Example_IfElse.dll
+/Users/m1/c#/Example_IfElse/obj/Debug/net6.0/Example_IfElse.pdb
+/Users/m1/c#/Example_IfElse/obj/Debug/net6.0/Example_IfElse.genruntimeconfig.cache
+/Users/m1/c#/Example_IfElse/obj/Debug/net6.0/ref/Example_IfElse.dll
