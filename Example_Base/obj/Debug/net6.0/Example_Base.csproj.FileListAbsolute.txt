@@ -1,0 +1,15 @@
+/Users/m1/c#/Example_Base/bin/Debug/net6.0/Example_Base
+/Users/m1/c#/Example_Base/bin/Debug/net6.0/Example_Base.deps.json
+/Users/m1/c#/Example_Base/bin/Debug/net6.0/Example_Base.runtimeconfig.json
+/Users/m1/c#/Example_Base/bin/Debug/net6.0/Example_Base.dll
+/Users/m1/c#/Example_Base/bin/Debug/net6.0/Example_Base.pdb
+/Users/m1/c#/Example_Base/obj/Debug/net6.0/Example_Base.csproj.AssemblyReference.cache
+/Users/m1/c#/Example_Base/obj/Debug/net6.0/Example_Base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/m1/c#/Example_Base/obj/Debug/net6.0/Example_Base.AssemblyInfoInputs.cache
+/Users/m1/c#/Example_Base/obj/Debug/net6.0/Example_Base.AssemblyInfo.cs
+/Users/m1/c#/Example_Base/obj/Debug/net6.0/Example_Base.csproj.CoreCompileInputs.cache
+/Users/m1/c#/Example_Base/obj/Debug/net6.0/Example_Base.dll
+/Users/m1/c#/Example_Base/obj/Debug/net6.0/refint/Example_Base.dll
+/Users/m1/c#/Example_Base/obj/Debug/net6.0/Example_Base.pdb
+/Users/m1/c#/Example_Base/obj/Debug/net6.0/Example_Base.genruntimeconfig.cache
+/Users/m1/c#/Example_Base/obj/Debug/net6.0/ref/Example_Base.dll
