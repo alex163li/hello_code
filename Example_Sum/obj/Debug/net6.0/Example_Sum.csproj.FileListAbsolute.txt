@@ -1,0 +1,15 @@
+/Users/m1/c#/Example_Sum/bin/Debug/net6.0/Example_Sum
+/Users/m1/c#/Example_Sum/bin/Debug/net6.0/Example_Sum.deps.json
+/Users/m1/c#/Example_Sum/bin/Debug/net6.0/Example_Sum.runtimeconfig.json
+/Users/m1/c#/Example_Sum/bin/Debug/net6.0/Example_Sum.dll
+/Users/m1/c#/Example_Sum/bin/Debug/net6.0/Example_Sum.pdb
+/Users/m1/c#/Example_Sum/obj/Debug/net6.0/Example_Sum.csproj.AssemblyReference.cache
+/Users/m1/c#/Example_Sum/obj/Debug/net6.0/Example_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/m1/c#/Example_Sum/obj/Debug/net6.0/Example_Sum.AssemblyInfoInputs.cache
+/Users/m1/c#/Example_Sum/obj/Debug/net6.0/Example_Sum.AssemblyInfo.cs
+/Users/m1/c#/Example_Sum/obj/Debug/net6.0/Example_Sum.csproj.CoreCompileInputs.cache
+/Users/m1/c#/Example_Sum/obj/Debug/net6.0/Example_Sum.dll
+/Users/m1/c#/Example_Sum/obj/Debug/net6.0/refint/Example_Sum.dll
+/Users/m1/c#/Example_Sum/obj/Debug/net6.0/Example_Sum.pdb
+/Users/m1/c#/Example_Sum/obj/Debug/net6.0/Example_Sum.genruntimeconfig.cache
+/Users/m1/c#/Example_Sum/obj/Debug/net6.0/ref/Example_Sum.dll
